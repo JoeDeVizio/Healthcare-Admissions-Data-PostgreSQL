@@ -1,4 +1,4 @@
-Healthcare Admissions Data Cleaning with PostgreSQL.
+Healthcare Admissions Data Project with PostgreSQL.
 
 Project Overview
 My first sql project. This project focuses on cleaning, standardizing, and validating a healthcare admissions dataset using PostgreSQL. 
